@@ -1,0 +1,10 @@
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\obj\Debug\C3_DemoWinForm.csprojAssemblyReference.cache
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\obj\Debug\C3_DemoWinForm.Form1.resources
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\obj\Debug\C3_DemoWinForm.Properties.Resources.resources
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\obj\Debug\C3_DemoWinForm.csproj.GenerateResource.cache
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\obj\Debug\C3_DemoWinForm.csproj.CoreCompileInputs.cache
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\bin\Debug\C3_DemoWinForm.exe.config
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\bin\Debug\C3_DemoWinForm.exe
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\bin\Debug\C3_DemoWinForm.pdb
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\obj\Debug\C3_DemoWinForm.exe
+C:\Users\KHA VO\source\repos\C3_DemoWinForm\C3_DemoWinForm\obj\Debug\C3_DemoWinForm.pdb
